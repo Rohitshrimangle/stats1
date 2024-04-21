@@ -20,7 +20,7 @@ Hypothesis Testing: Perform hypothesis testing including t-tests, chi-square tes
 Correlation and Regression Analysis: Conduct correlation analysis and linear regression analysis to examine relationships between variables.
 Data Visualization: Visualize data using plots such as histograms, scatter plots, box plots, and probability plots.
 
-**Requirements**
+# **Requirements**
 
 To run the Jupyter Notebook files in this repository, you need the following:
 
