@@ -1,4 +1,4 @@
-## **Statistics Practical Implementation on Jupyter Notebook**
+### **Statistics Practical Implementation on Jupyter Notebook**
 
 Welcome to the repository for practical implementations of statistical concepts using Jupyter Notebook!
 
