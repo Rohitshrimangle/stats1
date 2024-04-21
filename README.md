@@ -24,8 +24,8 @@ Data Visualization: Visualize data using plots such as histograms, scatter plots
 
 To run the Jupyter Notebook files in this repository, you need the following:
 
-Python (version 3.x recommended)
+-Python (version 3.x recommended)
 
-Jupyter Notebook
+-Jupyter Notebook
 
-Required Python libraries: NumPy, pandas, matplotlib, scipy, seaborn
+-Required Python libraries: NumPy, pandas, matplotlib, scipy, seaborn
