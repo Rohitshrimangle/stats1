@@ -1,10 +1,8 @@
-Statistics 
+Statistics Practical Implementation on Jupyter Notebook
 
-Practical Implementation on Jupyter Notebook
 Welcome to the repository for practical implementations of statistical concepts using Jupyter Notebook!
 
 Overview
-
 In this repository, you will find Jupyter Notebook files containing practical implementations of various statistical concepts and techniques. These implementations are designed to provide hands-on experience and demonstrate the application of statistical methods using Python programming language.
 
 Contents
