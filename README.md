@@ -16,7 +16,7 @@ Data Visualization: Visualize data using plots such as histograms, scatter plots
 
 **Requirements**
 
-To run the Jupyter Notebook files in this repository, you need the following:
+#To run the Jupyter Notebook files in this repository, you need the following:
 
 Python (version 3.x recommended)
 Jupyter Notebook
